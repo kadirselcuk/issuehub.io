@@ -12,5 +12,5 @@ gem 'rdiscount'
 
 group :test do
   gem 'rspec'
-  gem 'capybara'
+  gem 'capybara', '>= 3.33.0'
 end
